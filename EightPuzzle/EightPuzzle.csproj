@@ -50,23 +50,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="InputData\10.pl" />
-    <None Include="InputData\11.pl" />
-    <None Include="InputData\12.pl" />
-    <None Include="InputData\13.pl" />
-    <None Include="InputData\14.pl" />
-    <None Include="InputData\15.pl" />
-    <None Include="InputData\16.pl" />
-    <None Include="InputData\17.pl" />
-    <None Include="InputData\18.pl" />
-    <None Include="InputData\19.pl" />
-    <None Include="InputData\20.pl" />
-    <None Include="InputData\21.pl" />
-    <None Include="InputData\22.pl" />
-    <None Include="InputData\23.pl" />
-    <None Include="InputData\24.pl" />
-    <None Include="InputData\25.pl" />
     <None Include="App.config" />
+    <None Include="InputData\InputData.rar" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
